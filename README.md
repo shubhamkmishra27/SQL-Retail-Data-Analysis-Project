@@ -48,3 +48,9 @@ Total Questions Solved: **37 SQL business problems**
 Aspiring Data Analyst  
 Skills: SQL | Excel | Power BI | Python
 # SQL-Retail-Data-Analysis-Project
+
+
+Note: This project was completed as part of my data analytics training. 
+The dataset used in this project belongs to the training institute and is not publicly shared. 
+All SQL queries and analysis are written by me for learning and practice purposes.
+
